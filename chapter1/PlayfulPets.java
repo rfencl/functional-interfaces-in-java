@@ -1,5 +1,6 @@
 package chapter1;
 import java.util.*;
+import java.util.stream.Collectors;
 
 @FunctionalInterface
 interface PetMatcher
@@ -24,8 +25,9 @@ public class PlayfulPets
         System.out.println("First: " + matcher.first(pet));
         System.out.println("All matches:");
         List<Pet> matches = matcher.match(pet);
-        for (Pet p : matches)
-            System.out.println(p);
+        matches.forEach(System.out::println);
+        // for (Pet p : matches)
+        //     System.out.println(p);
     }
 
     public static void main(String[] args)
@@ -39,32 +41,20 @@ public class PlayfulPets
                              "green",320.00));
         
         PetMatcher breedMatcher = new PetMatcher() {
-            public List<Pet> match(Pet pet)
-            {
-                List<Pet> matches = new ArrayList<>();
-                for (Pet p : Pet.pets)
-                    if (p.equals(pet))
-                        matches.add(p);
-                return matches;
+            public List<Pet> match(Pet pet) {
+                return Pet.pets.stream().filter(p -> p.equals(pet)).collect(Collectors.toList());
             }
         };
         
         PetMatcher priceMatcher = new PetMatcher() {
             public List<Pet> match(Pet pet)
             {
-                List<Pet> matches = new ArrayList<>();
-                for (Pet p : Pet.pets)
-                    if (p.price <= pet.price)
-                        matches.add(p);
-                return matches;
+                return Pet.pets.stream().filter(p -> p.price <= pet.price).collect(Collectors.toList());
             }
+
             public Pet first(Pet pet)
             {
-                int index = -1;
-                for(Pet p : Pet.pets)
-                    if (p.price <= pet.price)
-                        return p;
-                return null;
+                return Pet.pets.stream().filter(p -> p.price <= pet.price).collect(Collectors.toList()).get(0);
             }
         };
         
