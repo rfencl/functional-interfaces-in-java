@@ -26,8 +26,6 @@ public class PlayfulPets
         System.out.println("All matches:");
         List<Pet> matches = matcher.match(pet);
         matches.forEach(System.out::println);
-        // for (Pet p : matches)
-        //     System.out.println(p);
     }
 
     public static void main(String[] args)

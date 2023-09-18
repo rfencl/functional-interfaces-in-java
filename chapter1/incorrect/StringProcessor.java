@@ -5,5 +5,5 @@ package chapter1.incorrect;
 public interface StringProcessor       
 {
        String process(String x);
-       String process2(String x);
+       // String process2(String x);
 }
