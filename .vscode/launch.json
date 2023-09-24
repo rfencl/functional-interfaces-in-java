@@ -1,0 +1,1493 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DMVGUI",
+            "request": "launch",
+            "mainClass": "chapter15.DMVGUI",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "PlayfulPets",
+            "request": "launch",
+            "mainClass": "chapter1.PlayfulPets",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex1",
+            "request": "launch",
+            "mainClass": "chapter1.Sect5_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestI2",
+            "request": "launch",
+            "mainClass": "chapter1.TestI2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestI3",
+            "request": "launch",
+            "mainClass": "chapter1.TestI3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestI4",
+            "request": "launch",
+            "mainClass": "chapter1.TestI4",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestStringProcessor",
+            "request": "launch",
+            "mainClass": "chapter1.TestStringProcessor",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestTwoArgsProcessor",
+            "request": "launch",
+            "mainClass": "chapter1.TestTwoArgsProcessor",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestTwoIntsProcessor",
+            "request": "launch",
+            "mainClass": "chapter1.TestTwoIntsProcessor",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect6_Ex1",
+            "request": "launch",
+            "mainClass": "chapter1.version2.Sect6_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect7a_Ex1",
+            "request": "launch",
+            "mainClass": "chapter1.version2.Sect7a_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "RealEstateBroker",
+            "request": "launch",
+            "mainClass": "chapter10.RealEstateBroker",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect10_Ex1",
+            "request": "launch",
+            "mainClass": "chapter10.Sect10_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1_Ex1",
+            "request": "launch",
+            "mainClass": "chapter10.Sect1_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1_Ex2",
+            "request": "launch",
+            "mainClass": "chapter10.Sect1_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1_Ex3",
+            "request": "launch",
+            "mainClass": "chapter10.Sect1_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2_Ex1",
+            "request": "launch",
+            "mainClass": "chapter10.Sect2_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2_Ex2",
+            "request": "launch",
+            "mainClass": "chapter10.Sect2_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2_Ex3",
+            "request": "launch",
+            "mainClass": "chapter10.Sect2_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2_Ex4",
+            "request": "launch",
+            "mainClass": "chapter10.Sect2_Ex4",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2_Ex5",
+            "request": "launch",
+            "mainClass": "chapter10.Sect2_Ex5",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect3_Ex1",
+            "request": "launch",
+            "mainClass": "chapter10.Sect3_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect3_Ex2",
+            "request": "launch",
+            "mainClass": "chapter10.Sect3_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect3_Ex3",
+            "request": "launch",
+            "mainClass": "chapter10.Sect3_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect3_Ex4",
+            "request": "launch",
+            "mainClass": "chapter10.Sect3_Ex4",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect3_Ex5",
+            "request": "launch",
+            "mainClass": "chapter10.Sect3_Ex5",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect4_Ex1",
+            "request": "launch",
+            "mainClass": "chapter10.Sect4_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect4_Ex2",
+            "request": "launch",
+            "mainClass": "chapter10.Sect4_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex1(1)",
+            "request": "launch",
+            "mainClass": "chapter10.Sect5_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex2",
+            "request": "launch",
+            "mainClass": "chapter10.Sect5_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex3",
+            "request": "launch",
+            "mainClass": "chapter10.Sect5_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex4",
+            "request": "launch",
+            "mainClass": "chapter10.Sect5_Ex4",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex5",
+            "request": "launch",
+            "mainClass": "chapter10.Sect5_Ex5",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex6",
+            "request": "launch",
+            "mainClass": "chapter10.Sect5_Ex6",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect6_Ex1(1)",
+            "request": "launch",
+            "mainClass": "chapter10.Sect6_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect6_Ex2",
+            "request": "launch",
+            "mainClass": "chapter10.Sect6_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect7_Ex1",
+            "request": "launch",
+            "mainClass": "chapter10.Sect7_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect7_Ex2",
+            "request": "launch",
+            "mainClass": "chapter10.Sect7_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect7_Ex3",
+            "request": "launch",
+            "mainClass": "chapter10.Sect7_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect8_Ex1",
+            "request": "launch",
+            "mainClass": "chapter10.Sect8_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect8_Ex2",
+            "request": "launch",
+            "mainClass": "chapter10.Sect8_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect8_Ex3",
+            "request": "launch",
+            "mainClass": "chapter10.Sect8_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9_Ex1",
+            "request": "launch",
+            "mainClass": "chapter10.Sect9_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9_Ex2",
+            "request": "launch",
+            "mainClass": "chapter10.Sect9_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9_Ex3",
+            "request": "launch",
+            "mainClass": "chapter10.Sect9_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9_Ex4",
+            "request": "launch",
+            "mainClass": "chapter10.Sect9_Ex4",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "GuessANumber",
+            "request": "launch",
+            "mainClass": "chapter11.GuessANumber",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1_Ex1(1)",
+            "request": "launch",
+            "mainClass": "chapter11.Sect1_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1_Ex2(1)",
+            "request": "launch",
+            "mainClass": "chapter11.Sect1_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2_Ex1(1)",
+            "request": "launch",
+            "mainClass": "chapter11.Sect2_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2_Ex2(1)",
+            "request": "launch",
+            "mainClass": "chapter11.Sect2_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect3_Ex1(1)",
+            "request": "launch",
+            "mainClass": "chapter11.Sect3_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect3_Ex2(1)",
+            "request": "launch",
+            "mainClass": "chapter11.Sect3_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect4_Ex1(1)",
+            "request": "launch",
+            "mainClass": "chapter11.Sect4_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect4_Ex2(1)",
+            "request": "launch",
+            "mainClass": "chapter11.Sect4_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect4_Ex3",
+            "request": "launch",
+            "mainClass": "chapter11.Sect4_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex1(2)",
+            "request": "launch",
+            "mainClass": "chapter11.Sect5_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect6_Ex1(2)",
+            "request": "launch",
+            "mainClass": "chapter11.Sect6_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect6_Ex2(1)",
+            "request": "launch",
+            "mainClass": "chapter11.Sect6_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect7_Ex1(1)",
+            "request": "launch",
+            "mainClass": "chapter11.Sect7_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect7_Ex2(1)",
+            "request": "launch",
+            "mainClass": "chapter11.Sect7_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect7_Ex3(1)",
+            "request": "launch",
+            "mainClass": "chapter11.Sect7_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect7_Ex4",
+            "request": "launch",
+            "mainClass": "chapter11.Sect7_Ex4",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect7_Ex5",
+            "request": "launch",
+            "mainClass": "chapter11.Sect7_Ex5",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Inventory",
+            "request": "launch",
+            "mainClass": "chapter12.Inventory",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect10_Ex1(1)",
+            "request": "launch",
+            "mainClass": "chapter12.Sect10_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect10_Ex2",
+            "request": "launch",
+            "mainClass": "chapter12.Sect10_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect11_Ex1",
+            "request": "launch",
+            "mainClass": "chapter12.Sect11_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect12_Ex1",
+            "request": "launch",
+            "mainClass": "chapter12.Sect12_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect12_Ex2",
+            "request": "launch",
+            "mainClass": "chapter12.Sect12_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect12_Ex3",
+            "request": "launch",
+            "mainClass": "chapter12.Sect12_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2_Ex1(2)",
+            "request": "launch",
+            "mainClass": "chapter12.Sect2_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect3_Ex1(2)",
+            "request": "launch",
+            "mainClass": "chapter12.Sect3_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect3_Ex3(1)",
+            "request": "launch",
+            "mainClass": "chapter12.Sect3_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect3_Ex4(1)",
+            "request": "launch",
+            "mainClass": "chapter12.Sect3_Ex4",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect4_Ex1(2)",
+            "request": "launch",
+            "mainClass": "chapter12.Sect4_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect4_Ex2(2)",
+            "request": "launch",
+            "mainClass": "chapter12.Sect4_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex1(3)",
+            "request": "launch",
+            "mainClass": "chapter12.Sect5_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex2(1)",
+            "request": "launch",
+            "mainClass": "chapter12.Sect5_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect6_Ex1(3)",
+            "request": "launch",
+            "mainClass": "chapter12.Sect6_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect6_Ex2(2)",
+            "request": "launch",
+            "mainClass": "chapter12.Sect6_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect7_Ex1(2)",
+            "request": "launch",
+            "mainClass": "chapter12.Sect7_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect7_Ex2(2)",
+            "request": "launch",
+            "mainClass": "chapter12.Sect7_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect8_Ex1(1)",
+            "request": "launch",
+            "mainClass": "chapter12.Sect8_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect8_Ex2(1)",
+            "request": "launch",
+            "mainClass": "chapter12.Sect8_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9_Ex1(1)",
+            "request": "launch",
+            "mainClass": "chapter12.Sect9_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9_Ex2(1)",
+            "request": "launch",
+            "mainClass": "chapter12.Sect9_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9_Ex3(1)",
+            "request": "launch",
+            "mainClass": "chapter12.Sect9_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9a_Ex1",
+            "request": "launch",
+            "mainClass": "chapter12.Sect9a_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9a_Ex2",
+            "request": "launch",
+            "mainClass": "chapter12.Sect9a_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9a_Ex3",
+            "request": "launch",
+            "mainClass": "chapter12.Sect9a_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9a_Ex4",
+            "request": "launch",
+            "mainClass": "chapter12.Sect9a_Ex4",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9a_Ex5",
+            "request": "launch",
+            "mainClass": "chapter12.Sect9a_Ex5",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9a_Ex6",
+            "request": "launch",
+            "mainClass": "chapter12.Sect9a_Ex6",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9a_Ex7",
+            "request": "launch",
+            "mainClass": "chapter12.Sect9a_Ex7",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9a_Ex8",
+            "request": "launch",
+            "mainClass": "chapter12.Sect9a_Ex8",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9a_Ex9",
+            "request": "launch",
+            "mainClass": "chapter12.Sect9a_Ex9",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "AllOf",
+            "request": "launch",
+            "mainClass": "chapter13.AllOf",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "MySentence",
+            "request": "launch",
+            "mainClass": "chapter13.MySentence",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect10_Ex1(2)",
+            "request": "launch",
+            "mainClass": "chapter13.Sect10_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1_Ex1(2)",
+            "request": "launch",
+            "mainClass": "chapter13.Sect1_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1_Ex2(2)",
+            "request": "launch",
+            "mainClass": "chapter13.Sect1_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1_Ex3(1)",
+            "request": "launch",
+            "mainClass": "chapter13.Sect1_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1_Ex4",
+            "request": "launch",
+            "mainClass": "chapter13.Sect1_Ex4",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1a_Ex1",
+            "request": "launch",
+            "mainClass": "chapter13.Sect1a_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2_Ex1(3)",
+            "request": "launch",
+            "mainClass": "chapter13.Sect2_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect4_Ex1(3)",
+            "request": "launch",
+            "mainClass": "chapter13.Sect4_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect4_Ex2(3)",
+            "request": "launch",
+            "mainClass": "chapter13.Sect4_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect4_Ex3(1)",
+            "request": "launch",
+            "mainClass": "chapter13.Sect4_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex1(4)",
+            "request": "launch",
+            "mainClass": "chapter13.Sect5_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex2(2)",
+            "request": "launch",
+            "mainClass": "chapter13.Sect5_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect6_Ex1(4)",
+            "request": "launch",
+            "mainClass": "chapter13.Sect6_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect7_Ex1(3)",
+            "request": "launch",
+            "mainClass": "chapter13.Sect7_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect8_Ex1(2)",
+            "request": "launch",
+            "mainClass": "chapter13.Sect8_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect8_Ex2(2)",
+            "request": "launch",
+            "mainClass": "chapter13.Sect8_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect8_Ex3(1)",
+            "request": "launch",
+            "mainClass": "chapter13.Sect8_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9_Ex1(2)",
+            "request": "launch",
+            "mainClass": "chapter13.Sect9_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9_Ex2(2)",
+            "request": "launch",
+            "mainClass": "chapter13.Sect9_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "SentenceBuilder",
+            "request": "launch",
+            "mainClass": "chapter13.SentenceBuilder",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "BankAccount",
+            "request": "launch",
+            "mainClass": "chapter14.BankAccount",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Safe",
+            "request": "launch",
+            "mainClass": "chapter14.Safe",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1a_Ex1(1)",
+            "request": "launch",
+            "mainClass": "chapter14.Sect1a_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1a_Ex2",
+            "request": "launch",
+            "mainClass": "chapter14.Sect1a_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1b_Ex1",
+            "request": "launch",
+            "mainClass": "chapter14.Sect1b_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1b_Ex2",
+            "request": "launch",
+            "mainClass": "chapter14.Sect1b_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1c_Ex1",
+            "request": "launch",
+            "mainClass": "chapter14.Sect1c_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2_Ex1(4)",
+            "request": "launch",
+            "mainClass": "chapter14.Sect2_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect3_Ex1(3)",
+            "request": "launch",
+            "mainClass": "chapter14.Sect3_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect4_Ex1(4)",
+            "request": "launch",
+            "mainClass": "chapter14.Sect4_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex1(5)",
+            "request": "launch",
+            "mainClass": "chapter14.Sect5_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex2(3)",
+            "request": "launch",
+            "mainClass": "chapter14.Sect5_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "ShareAnInt",
+            "request": "launch",
+            "mainClass": "chapter14.ShareAnInt",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Unsafe",
+            "request": "launch",
+            "mainClass": "chapter14.Unsafe",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "DMVGUI",
+            "request": "launch",
+            "mainClass": "chapter15.DMVGUI",
+            "projectName": "functional-interfaces-in-java",
+            "vmArgs": "--module-path /usr/share/openjfx/lib/ --add-modules javafx.controls,javafx.fxml"
+
+        },
+        {
+            "type": "java",
+            "name": "TestBuilder",
+            "request": "launch",
+            "mainClass": "chapter15.TestBuilder",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestBuilderFactory",
+            "request": "launch",
+            "mainClass": "chapter15.TestBuilderFactory",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestEventHandler",
+            "request": "launch",
+            "mainClass": "chapter15.TestEventHandler",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestInvalidation",
+            "request": "launch",
+            "mainClass": "chapter15.TestInvalidation",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestListChangeListener",
+            "request": "launch",
+            "mainClass": "chapter15.TestListChangeListener",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestMapChangeListener",
+            "request": "launch",
+            "mainClass": "chapter15.TestMapChangeListener",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestSetChangeListener",
+            "request": "launch",
+            "mainClass": "chapter15.TestSetChangeListener",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "ComputeSquare",
+            "request": "launch",
+            "mainClass": "chapter2.ComputeSquare",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2_Ex1(5)",
+            "request": "launch",
+            "mainClass": "chapter2.Sect2_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2_Ex2(2)",
+            "request": "launch",
+            "mainClass": "chapter2.Sect2_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect4_Ex1(5)",
+            "request": "launch",
+            "mainClass": "chapter2.Sect4_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect4_Ex2(4)",
+            "request": "launch",
+            "mainClass": "chapter2.Sect4_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex1(6)",
+            "request": "launch",
+            "mainClass": "chapter2.Sect5_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex2(4)",
+            "request": "launch",
+            "mainClass": "chapter2.Sect5_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex4(1)",
+            "request": "launch",
+            "mainClass": "chapter2.Sect5_Ex4",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex6(1)",
+            "request": "launch",
+            "mainClass": "chapter2.Sect5_Ex6",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex7",
+            "request": "launch",
+            "mainClass": "chapter2.Sect5_Ex7",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect6_Ex1(5)",
+            "request": "launch",
+            "mainClass": "chapter2.Sect6_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect6_Ex3",
+            "request": "launch",
+            "mainClass": "chapter2.Sect6_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestLambdaScope",
+            "request": "launch",
+            "mainClass": "chapter2.TestLambdaScope",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex3(1)",
+            "request": "launch",
+            "mainClass": "chapter2.incorrect.Sect5_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestLambdaScope(1)",
+            "request": "launch",
+            "mainClass": "chapter2.incorrect.TestLambdaScope",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect6_Ex2(3)",
+            "request": "launch",
+            "mainClass": "chapter2.version2.Sect6_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5e_Ex1",
+            "request": "launch",
+            "mainClass": "chapter3.Sect5e_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "NumberParser",
+            "request": "launch",
+            "mainClass": "chapter4.NumberParser",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "SalesPromotion",
+            "request": "launch",
+            "mainClass": "chapter4.SalesPromotion",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect10_Ex1(3)",
+            "request": "launch",
+            "mainClass": "chapter4.Sect10_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1_Ex1(3)",
+            "request": "launch",
+            "mainClass": "chapter4.Sect1_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect3a_Ex1",
+            "request": "launch",
+            "mainClass": "chapter4.Sect3a_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect3b_Ex1",
+            "request": "launch",
+            "mainClass": "chapter4.Sect3b_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect4_Ex1(6)",
+            "request": "launch",
+            "mainClass": "chapter4.Sect4_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex1(7)",
+            "request": "launch",
+            "mainClass": "chapter4.Sect5_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect6_Ex1(6)",
+            "request": "launch",
+            "mainClass": "chapter4.Sect6_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect7_Ex1(4)",
+            "request": "launch",
+            "mainClass": "chapter4.Sect7_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect8_Ex1(3)",
+            "request": "launch",
+            "mainClass": "chapter4.Sect8_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect9_Ex1(3)",
+            "request": "launch",
+            "mainClass": "chapter4.Sect9_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Transformer",
+            "request": "launch",
+            "mainClass": "chapter4.Transformer",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "chapter5.Calculator",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1_Ex1(4)",
+            "request": "launch",
+            "mainClass": "chapter5.Sect1_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2_Ex1(6)",
+            "request": "launch",
+            "mainClass": "chapter5.Sect2_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2a_Ex1",
+            "request": "launch",
+            "mainClass": "chapter5.Sect2a_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect3_Ex1(4)",
+            "request": "launch",
+            "mainClass": "chapter5.Sect3_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect4_Ex1(7)",
+            "request": "launch",
+            "mainClass": "chapter5.Sect4_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "BankTransactions",
+            "request": "launch",
+            "mainClass": "chapter6.BankTransactions",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "ComputePolynomial",
+            "request": "launch",
+            "mainClass": "chapter6.ComputePolynomial",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "ConsumerSpecials",
+            "request": "launch",
+            "mainClass": "chapter6.ConsumerSpecials",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect6_Ex1(7)",
+            "request": "launch",
+            "mainClass": "chapter6.Sect6_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestBiConsumer",
+            "request": "launch",
+            "mainClass": "chapter6.TestBiConsumer",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestConsumer",
+            "request": "launch",
+            "mainClass": "chapter6.TestConsumer",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestConsumerAndThen",
+            "request": "launch",
+            "mainClass": "chapter6.TestConsumerAndThen",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2_Ex1(7)",
+            "request": "launch",
+            "mainClass": "chapter7.Sect2_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestSpecials",
+            "request": "launch",
+            "mainClass": "chapter7.TestSpecials",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestSupplier",
+            "request": "launch",
+            "mainClass": "chapter7.TestSupplier",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TicketingSystem",
+            "request": "launch",
+            "mainClass": "chapter7.TicketingSystem",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Payroll",
+            "request": "launch",
+            "mainClass": "chapter8.Payroll",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1_Ex1(5)",
+            "request": "launch",
+            "mainClass": "chapter8.Sect1_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1_Ex2(3)",
+            "request": "launch",
+            "mainClass": "chapter8.Sect1_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect3_Ex1(5)",
+            "request": "launch",
+            "mainClass": "chapter8.Sect3_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect4_Ex1(8)",
+            "request": "launch",
+            "mainClass": "chapter8.Sect4_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect6_Ex1(8)",
+            "request": "launch",
+            "mainClass": "chapter8.Sect6_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestMyInts",
+            "request": "launch",
+            "mainClass": "chapter8.TestMyInts",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestMyIntsP",
+            "request": "launch",
+            "mainClass": "chapter8.TestMyIntsP",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestPrimitiveIteratorGen",
+            "request": "launch",
+            "mainClass": "chapter8.TestPrimitiveIteratorGen",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "TestPrimitiveIteratorSpecializations",
+            "request": "launch",
+            "mainClass": "chapter8.TestPrimitiveIteratorSpecializations",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "DMV",
+            "request": "launch",
+            "mainClass": "chapter9.DMV",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect1_Ex1(6)",
+            "request": "launch",
+            "mainClass": "chapter9.Sect1_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2_Ex1(8)",
+            "request": "launch",
+            "mainClass": "chapter9.Sect2_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2_Ex2(3)",
+            "request": "launch",
+            "mainClass": "chapter9.Sect2_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2_Ex3(1)",
+            "request": "launch",
+            "mainClass": "chapter9.Sect2_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect2_Ex4(1)",
+            "request": "launch",
+            "mainClass": "chapter9.Sect2_Ex4",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect3_Ex1(6)",
+            "request": "launch",
+            "mainClass": "chapter9.Sect3_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect3_Ex2(2)",
+            "request": "launch",
+            "mainClass": "chapter9.Sect3_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect4_Ex1(9)",
+            "request": "launch",
+            "mainClass": "chapter9.Sect4_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex1(8)",
+            "request": "launch",
+            "mainClass": "chapter9.Sect5_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex2(5)",
+            "request": "launch",
+            "mainClass": "chapter9.Sect5_Ex2",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect5_Ex3(2)",
+            "request": "launch",
+            "mainClass": "chapter9.Sect5_Ex3",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        },
+        {
+            "type": "java",
+            "name": "Sect6_Ex1(9)",
+            "request": "launch",
+            "mainClass": "chapter9.Sect6_Ex1",
+            "projectName": "functional-interfaces-in-java_9c360e7b"
+        }
+    ]
+}

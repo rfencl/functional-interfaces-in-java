@@ -34,5 +34,5 @@ public class Sect5_Ex1
         Receipt receipt = new Receipt("shirt", 20.00, 0.05, 0.07);
         simpleReceiptPrinter.print(receipt);
         exemptReceiptPrinter.print(receipt);
-    }
+    };
 }
